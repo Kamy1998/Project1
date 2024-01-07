@@ -11,5 +11,9 @@ public class TestDemo {
 		System.out.println("Not so much tho...");
 
 	}
+	
+	public void add (int a, int b) {
+		System.out.println(a + b);
+	}
 
 }
